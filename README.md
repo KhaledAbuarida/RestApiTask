@@ -1,2 +1,3 @@
 # RestApiTask
-this is a simple task about rest api
+this is a simple task (REST API)  
+
